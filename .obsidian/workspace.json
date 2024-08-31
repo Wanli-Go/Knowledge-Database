@@ -11,8 +11,12 @@
             "id": "abcaa95b3e0c4dc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Java/1. Welcome Page to Java.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#interpreter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5110321044922
   },
   "right": {
     "id": "58f7083d83abbcd5",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Java/1. Welcome Page to Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Java/1. Welcome Page to Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Java/1. Welcome Page to Java.md"
+              }
             }
           }
         ]
@@ -138,6 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9cb0589333a5e69",
-  "lastOpenFiles": []
+  "active": "abcaa95b3e0c4dc9",
+  "lastOpenFiles": [
+    "Computers/Von Neumann Computer Architecture/Software/DSA/Data Structures & Algorithm Basics.md",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Types of Programming Languages/Object Oriented Programming/SOLID Principles.md",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Types of Programming Languages/Object Oriented Programming/Concept.md",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Types of Programming Languages/Object Oriented Programming/Inheritance, Encapsulation, Polymorphism.md",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Types of Programming Languages/Object Oriented Programming/Untitled",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Types of Programming Languages/Strong - Weak Typing.md",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Types of Programming Languages/Object Oriented Programming",
+    "Computers/Computer Network/Server/Databases",
+    "Computers/Computer Network/0. Networking",
+    "Computers/Computer Network/Client/0. Browser",
+    "Computers/Computer Network/Client",
+    "Computers/Computer Network/Server",
+    "Computers/Von Neumann Computer Architecture/Software/DSA/Algorithms",
+    "Computers/Von Neumann Computer Architecture/Software/DSA/Data Structures",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Java/2. Java Basics.md",
+    "Computers/Von Neumann Computer Architecture/Software/DSA",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Java/1. Welcome Page to Java.md",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Practices of Programming.md",
+    "Computers/Von Neumann Computer Architecture/Software/How a modern program executes.md",
+    "Computers/Von Neumann Computer Architecture/Software/Programming Languages/Types of Programming Languages/Functional Programming.md",
+    "Computers/Von Neumann Computer Architecture/Von Neumann Architecture.md",
+    "Computers/Computers.md",
+    "Computers/Von Neumann Computer Architecture/Software/Operating System/Operating System Overview.md",
+    "Computers/Von Neumann Computer Architecture/CPU.md"
+  ]
 }
